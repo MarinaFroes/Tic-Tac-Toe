@@ -1,5 +1,5 @@
 
-![Favicon]('./public/favicon.png) 
+![Favicon](./public/favicon.png) 
 # Tic-Tac-Toe 
 
 ## Introduction
